@@ -1,5 +1,6 @@
 # The input funciton allows you to prompt the user for a value
 # You need to declare a variable to hold the value entered by the user
 name = input('What is your name? ')
+# number = 10
 
-print(name)
+print('hello ' + name + number )
